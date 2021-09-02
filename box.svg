@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.76613356"
-     inkscape:cx="559.30196"
-     inkscape:cy="328.92437"
+     inkscape:zoom="0.22820425"
+     inkscape:cx="712.0814"
+     inkscape:cy="311.1248"
      inkscape:window-width="1280"
      inkscape:window-height="658"
      inkscape:window-x="-6"
@@ -41,14 +41,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="panel7872">
+       id="panel7872"
+       transform="rotate(89.034637,76.664029,89.917905)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 28.4 97.9 L 35.2143 97.9 L 35.2143 94.8 L 41.4143 94.8 L 41.4143 97.9 L 48.1286 97.9 L 48.1286 94.8 L 54.3286 94.8 L 54.3286 97.9 L 61.0429 97.9 L 61.0429 94.8 L 67.2429 94.8 L 67.2429 97.9 L 73.9571 97.9 L 73.9571 94.8 L 80.1571 94.8 L 80.1571 97.9 L 86.8714 97.9 L 86.8714 94.8 L 93.0714 94.8 L 93.0714 97.9 L 99.7857 97.9 L 99.7857 94.8 L 105.986 94.8 L 105.986 97.9 L 112.8 97.9"
+         d="m 28.4,97.9 h 6.8143 v -3.1 h 6.2 v 3.1 h 6.7143 v -3.1 h 6.2 v 3.1 h 6.7143 v -3.1 h 6.2 v 3.1 h 6.7142 v -3.1 h 6.2 v 3.1 h 6.7143 v -3.1 h 6.2 v 3.1 h 6.7143 v -3.1 h 6.2003 v 3.1 h 6.814"
          id="path12747" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 112.8 97.9 L 112.8 105.1 L 109.7 105.1 L 109.7 110.9 L 112.8 110.9 L 112.8 118.1"
+         d="m 112.8,97.9 v 7.2 h -3.1 v 5.8 h 3.1 v 7.2"
          id="path12749" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
@@ -57,22 +58,23 @@
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 28.4 118.1 L 28.4 110.9 L 31.5 110.9 L 31.5 105.1 L 28.4 105.1 L 28.4 97.9"
+         d="m 28.4,118.1 v -7.2 h 3.1 v -5.8 h -3.1 v -7.2"
          id="path12753" />
     </g>
     <g
-       id="panel8020">
+       id="panel8020"
+       transform="rotate(89.034637,76.664029,89.917905)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 4.1 31.5 L 11.1 31.5 L 11.1 28.4 L 17.3 28.4 L 17.3 31.5 L 24.3 31.5"
+         d="m 4.1,31.5 h 7 v -3.1 h 6.2 v 3.1 h 7"
          id="path12756" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 24.3 31.5 L 24.3 36.58 L 27.4 36.58 L 27.4 42.78 L 24.3 42.78 L 24.3 50.86 L 27.4 50.86 L 27.4 57.06 L 24.3 57.06 L 24.3 65.14 L 27.4 65.14 L 27.4 71.34 L 24.3 71.34 L 24.3 79.42 L 27.4 79.42 L 27.4 85.62 L 24.3 85.62 L 24.3 90.7"
+         d="m 24.3,31.5 v 5.08 h 3.1 v 6.2 h -3.1 v 8.08 h 3.1 v 6.2 h -3.1 v 8.08 h 3.1 v 6.2 h -3.1 v 8.08 h 3.1 v 6.2 h -3.1 v 5.08"
          id="path12758" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 24.3 90.7 L 17.3 90.7 L 17.3 93.8 L 11.1 93.8 L 11.1 90.7 L 4.1 90.7"
+         d="m 24.3,90.7 h -7 v 3.1 h -6.2 v -3.1 h -7"
          id="path12760" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
@@ -81,29 +83,31 @@
          sodipodi:nodetypes="cccccccccc" />
     </g>
     <g
-       id="panel4579">
+       id="panel4579"
+       transform="rotate(89.034637,76.664029,89.917905)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 28.4 28.4 L 35.4143 28.4 L 35.4143 31.5 L 41.2143 31.5 L 41.2143 28.4 L 48.3286 28.4 L 48.3286 31.5 L 54.1286 31.5 L 54.1286 28.4 L 61.2429 28.4 L 61.2429 31.5 L 67.0429 31.5 L 67.0429 28.4 L 74.1571 28.4 L 74.1571 31.5 L 79.9571 31.5 L 79.9571 28.4 L 87.0714 28.4 L 87.0714 31.5 L 92.8714 31.5 L 92.8714 28.4 L 99.9857 28.4 L 99.9857 31.5 L 105.786 31.5 L 105.786 28.4 L 112.8 28.4"
+         d="m 28.4,28.4 h 7.0143 v 3.1 h 5.8 v -3.1 h 7.1143 v 3.1 h 5.8 v -3.1 h 7.1143 v 3.1 h 5.8 v -3.1 h 7.1142 v 3.1 h 5.8 v -3.1 h 7.1143 v 3.1 h 5.8 v -3.1 h 7.1143 v 3.1 h 5.8003 v -3.1 h 7.014"
          id="path12765" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 112.8 28.4 L 112.8 36.78 L 109.7 36.78 L 109.7 42.58 L 112.8 42.58 L 112.8 51.06 L 109.7 51.06 L 109.7 56.86 L 112.8 56.86 L 112.8 65.34 L 109.7 65.34 L 109.7 71.14 L 112.8 71.14 L 112.8 79.62 L 109.7 79.62 L 109.7 85.42 L 112.8 85.42 L 112.8 93.8"
+         d="m 112.8,28.4 v 8.38 h -3.1 v 5.8 h 3.1 v 8.48 h -3.1 v 5.8 h 3.1 v 8.48 h -3.1 v 5.8 h 3.1 v 8.48 h -3.1 v 5.8 h 3.1 v 8.38"
          id="path12767" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 112.8 93.8 L 105.786 93.8 L 105.786 90.7 L 99.9857 90.7 L 99.9857 93.8 L 92.8714 93.8 L 92.8714 90.7 L 87.0714 90.7 L 87.0714 93.8 L 79.9571 93.8 L 79.9571 90.7 L 74.1571 90.7 L 74.1571 93.8 L 67.0429 93.8 L 67.0429 90.7 L 61.2429 90.7 L 61.2429 93.8 L 54.1286 93.8 L 54.1286 90.7 L 48.3286 90.7 L 48.3286 93.8 L 41.2143 93.8 L 41.2143 90.7 L 35.4143 90.7 L 35.4143 93.8 L 28.4 93.8"
+         d="m 112.8,93.8 h -7.014 v -3.1 h -5.8003 v 3.1 h -7.1143 v -3.1 h -5.8 v 3.1 h -7.1143 v -3.1 h -5.8 v 3.1 h -7.1142 v -3.1 h -5.8 v 3.1 h -7.1143 v -3.1 h -5.8 v 3.1 h -7.1143 v -3.1 h -5.8 v 3.1 H 28.4"
          id="path12769" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 28.4 93.8 L 28.4 85.42 L 31.5 85.42 L 31.5 79.62 L 28.4 79.62 L 28.4 71.14 L 31.5 71.14 L 31.5 65.34 L 28.4 65.34 L 28.4 56.86 L 31.5 56.86 L 31.5 51.06 L 28.4 51.06 L 28.4 42.58 L 31.5 42.58 L 31.5 36.78 L 28.4 36.78 L 28.4 28.4"
+         d="m 28.4,93.8 v -8.38 h 3.1 v -5.8 h -3.1 v -8.48 h 3.1 v -5.8 h -3.1 v -8.48 h 3.1 v -5.8 h -3.1 v -8.48 h 3.1 v -5.8 H 28.4 V 28.4"
          id="path12771" />
     </g>
     <g
-       id="panel8314">
+       id="panel8314"
+       transform="rotate(89.034637,76.664029,89.917905)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 116.9 31.5 L 123.9 31.5 L 123.9 28.4 L 130.1 28.4 L 130.1 31.5 L 137.1 31.5"
+         d="m 116.9,31.5 h 7 v -3.1 h 6.2 v 3.1 h 7"
          id="path12774" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
@@ -112,16 +116,16 @@
          sodipodi:nodetypes="cccccccccc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 137.1 90.7 L 130.1 90.7 L 130.1 93.8 L 123.9 93.8 L 123.9 90.7 L 116.9 90.7"
+         d="m 137.1,90.7 h -7 v 3.1 h -6.2 v -3.1 h -7"
          id="path12778" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 116.9 90.7 L 116.9 85.62 L 113.8 85.62 L 113.8 79.42 L 116.9 79.42 L 116.9 71.34 L 113.8 71.34 L 113.8 65.14 L 116.9 65.14 L 116.9 57.06 L 113.8 57.06 L 113.8 50.86 L 116.9 50.86 L 116.9 42.78 L 113.8 42.78 L 113.8 36.58 L 116.9 36.58 L 116.9 31.5"
+         d="m 116.9,90.7 v -5.08 h -3.1 v -6.2 h 3.1 v -8.08 h -3.1 v -6.2 h 3.1 v -8.08 h -3.1 v -6.2 h 3.1 v -8.08 h -3.1 v -6.2 h 3.1 V 31.5"
          id="path12780" />
     </g>
     <g
        id="panel1185"
-       transform="translate(22.793023,0.69069767)">
+       transform="rotate(89.034637,64.916299,101.16272)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
          d="m 138.55417,28.4 h 89.69166"
@@ -144,7 +148,8 @@
          sodipodi:nodetypes="cccccccccccccc" />
     </g>
     <g
-       id="panel4908">
+       id="panel4908"
+       transform="rotate(89.034637,76.664029,89.917905)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
          d="m 28.4,4.1 h 84.4"
@@ -152,15 +157,15 @@
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 112.8 4.1 L 112.8 11.3 L 109.7 11.3 L 109.7 17.1 L 112.8 17.1 L 112.8 24.3"
+         d="m 112.8,4.1 v 7.2 h -3.1 v 5.8 h 3.1 v 7.2"
          id="path12794" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 112.8 24.3 L 105.986 24.3 L 105.986 27.4 L 99.7857 27.4 L 99.7857 24.3 L 93.0714 24.3 L 93.0714 27.4 L 86.8714 27.4 L 86.8714 24.3 L 80.1571 24.3 L 80.1571 27.4 L 73.9571 27.4 L 73.9571 24.3 L 67.2429 24.3 L 67.2429 27.4 L 61.0429 27.4 L 61.0429 24.3 L 54.3286 24.3 L 54.3286 27.4 L 48.1286 27.4 L 48.1286 24.3 L 41.4143 24.3 L 41.4143 27.4 L 35.2143 27.4 L 35.2143 24.3 L 28.4 24.3"
+         d="m 112.8,24.3 h -6.814 v 3.1 h -6.2003 v -3.1 h -6.7143 v 3.1 h -6.2 v -3.1 h -6.7143 v 3.1 h -6.2 v -3.1 h -6.7142 v 3.1 h -6.2 v -3.1 h -6.7143 v 3.1 h -6.2 v -3.1 h -6.7143 v 3.1 h -6.2 V 24.3 H 28.4"
          id="path12796" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
-         d="M 28.4 24.3 L 28.4 17.1 L 31.5 17.1 L 31.5 11.3 L 28.4 11.3 L 28.4 4.1"
+         d="m 28.4,24.3 v -7.2 h 3.1 V 11.3 H 28.4 V 4.1"
          id="path12798" />
     </g>
     <rect
@@ -168,36 +173,40 @@
        id="rect15347"
        width="11.709239"
        height="13.709239"
-       x="8.6466017"
-       y="43.181477"
+       x="23.179352"
+       y="-121.87464"
        rx="0"
-       ry="0" />
+       ry="0"
+       transform="rotate(89.034637)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.395177"
        id="rect15349"
        width="12.604823"
        height="10.604823"
-       x="8.0081129"
-       y="74.151657"
+       x="22.540863"
+       y="-90.904457"
        rx="0"
-       ry="0" />
+       ry="0"
+       transform="rotate(89.034637)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.285286"
        id="rect16546"
        width="63.523899"
        height="10.340178"
-       x="174.4113"
-       y="77.368286" />
+       x="188.94406"
+       y="-87.687828"
+       transform="rotate(89.034637)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264999"
        id="rect16674"
        width="62.853485"
        height="10.360465"
-       x="174.74651"
-       y="38.333721" />
+       x="189.27927"
+       y="-126.72239"
+       transform="rotate(89.034637)" />
     <g
        aria-label="Dude eitthvað"
-       transform="scale(0.87624005,1.1412398)"
+       transform="matrix(0.01476286,0.87611568,-1.1410778,0.01922757,165.27753,11.749828)"
        id="text18276"
        style="font-size:15.6901px;line-height:1.25;font-family:Lobster;-inkscape-font-specification:Lobster;letter-spacing:0px;fill:#ff0000;stroke-width:0.245156">
       <path
